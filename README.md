@@ -25,3 +25,18 @@ Performing operations on objects, such as counting and calculating statistics.
 Changing the characteristics of an item.
 Removing an Object
 Exiting the interpreter.
+
+## Utilising a translator 🔛
+
+Here are the instructions for using the interpreter:......
+
+Command---	Description---	Example
+
+help |	Displays  |a list of documented commands	(hbnb) help
+help | create (any command)	 Creates an object of a specified class	 | (hbnb) help create
+quit	 | Exits the command interpreter |	(hbnb) quit
+EOF	 | Terminates the program	 | (hbnb) EOF
+all  |	Shows all objects of a specified class |	(hbnb) all <class>
+show	 | Displays an object of a specified class	 | (hbnb) show <class> <id>
+update	 | Modifies an object of a specified class	 | (hbnb) update <class> <id> <attribute name> <"attribute value">
+destroy |	Deletes an object of a specified class	 | (hbnb) destroy <class> <id>
