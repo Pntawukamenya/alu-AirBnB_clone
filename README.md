@@ -1,19 +1,16 @@
 ## AirBnB clone - The console
 At the end of this project, anyone can understand, without the help of Google:
 
-General 
 
-* How to create a Python package
-* How to create a command interpreter in Python using the cmd module
-* What is Unit testing and how to implement it in a large project
-* How to serialize and deserialize a Class
-* How to write and read a JSON file
-* How to manage datetime
-* What is an UUID
-* What is *args and how to use it
-* What is **kwargs and how to use it
-* How to handle named arguments in a function
 
+ After 4 months, you will have a complete web application composed by:
+
+*A command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging)
+*A website (the front-end) that shows the final product to everybody: static and dynamic
+*A database or files that store data (data = objects)
+*An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
+
+##Project Summary
 This is a clone of the Airbnb website. This project will be a basic server clone of the original AirBnB website. However, the cloned website will implement both the client side (front-end) and the server side (APIs, database, etc.).
 
 Only the console or command interpreter will be used to implement this present project.
