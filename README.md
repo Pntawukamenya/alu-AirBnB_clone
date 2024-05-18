@@ -1,7 +1,4 @@
 ## AirBnB clone - The console
-At the end of this project, anyone can understand, without the help of Google:
-
-
 
  After 4 months, you will have a complete web application composed by:
 
@@ -13,7 +10,8 @@ At the end of this project, anyone can understand, without the help of Google:
 
 * An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
 
-##Project Summary
+## Project Summary
+
 This is a clone of the Airbnb website. This project will be a basic server clone of the original AirBnB website. However, the cloned website will implement both the client side (front-end) and the server side (APIs, database, etc.).
 
 Only the console or command interpreter will be used to implement this present project.
