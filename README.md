@@ -10,13 +10,13 @@
 
 * An API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them)
 
-## Project Summary
+## Project Summary👍
 
 This is a clone of the Airbnb website. This project will be a basic server clone of the original AirBnB website. However, the cloned website will implement both the client side (front-end) and the server side (APIs, database, etc.).
 
 Only the console or command interpreter will be used to implement this present project.
 
-## Command Interpreter 🖥️
+## Command Interpreter 🕹️
 The console works similarly to a shell but with constraints customized to certain use conditions. Its function is to run commands against project objects. These instructions cover a variety of actions, such as:
 
 Creating a new item, such as a user or a place.
@@ -26,7 +26,7 @@ Changing the characteristics of an item.
 Removing an Object
 Exiting the interpreter.
 
-## Utilising a translator 🔛
+## Utilising a translator ⚙️
 
 Here are the instructions for using the interpreter:......
 
