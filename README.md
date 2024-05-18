@@ -31,7 +31,7 @@ Exiting the interpreter.
 Here are the instructions for using the interpreter:......
 
  |Command |Description                                                    |	Example |
- |------------------------------------------------------------------------------------- |
+ |:-------|:-------------------------------------------------------------:|--------------:|
  |help    |	Displays a list of documented commands	                       | (hbnb) help |
  |-------------------------------------------------------------------------------------- |
  |help    | create (any command)	 Creates an object of a specified class	 | (hbnb) help create |
